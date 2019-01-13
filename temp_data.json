@@ -1,0 +1,26 @@
+[  
+   {  
+      "year":"1924",
+      "country":"Finland",
+      "gender":"M",
+      "count":10
+   },
+   {  
+      "year":"1924",
+      "country":"Finland",
+      "gender":"F",
+      "count":12
+   },
+   {  
+      "year":"1924",
+      "country":"Germany",
+      "gender":"F",
+      "count":12
+   },
+   {  
+      "year":"1924",
+      "country":"Germany",
+      "gender":"M",
+      "count":9
+   }
+]
